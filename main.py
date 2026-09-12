@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.header('Yıllık Brüt Gelirden Net Gelir Hesaplama')
+
 brutgelir=st.number_input('Brüt gelir: ')
 
 
